@@ -2,11 +2,10 @@
 #include <stdlib.h>
 
 /**
- *
- * main - program that multiplies two numbers.
- * @argc: argument count 
+ * main - entry point
+ * @argc: argument count
  * @argv: argumrnt vector
- * Return: Always 0
+ * Return: 0 upon success, 1 for error
 */
 int main(int argc, char *argv[])
 {
